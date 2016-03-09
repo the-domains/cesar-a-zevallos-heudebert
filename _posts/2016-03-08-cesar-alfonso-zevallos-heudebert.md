@@ -11,18 +11,18 @@ description: >-
   en Economía de la Universidad de Lima. Master en Sociedad de la Información y
 
   el Conocimiento en la Universidad Oberta de Catalunya
-datePublished: '2016-03-08T18:57:42.552Z'
-dateModified: '2016-03-08T18:57:18.926Z'
+datePublished: '2016-03-09T09:56:51.342Z'
+dateModified: '2016-03-09T09:56:51.116Z'
 title: César Alfonso Zevallos Heudebert
 author: []
+sourcePath: _posts/2016-03-08-cesar-alfonso-zevallos-heudebert.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-cesar-alfonso-zevallos-heudebert.md
-published: true
 url: cesar-alfonso-zevallos-heudebert/index.html
 _type: Article
 
@@ -62,9 +62,7 @@ TEDx Tukuy desde el 12 de Diciembre de 2009\.
 
 Actualmente
 es director de la Cámára de Comercio de Lima y presidente del Gremio de
-Tecnologías de la Información 
+Tecnologías de la Información.
 
 También
-es el presidente de la Comisión de Innovación Ciencia y Tecnología en
-
-la Cámara de Comercio de Lima.
+es el presidente de la Comisión de Innovación Ciencia y Tecnología en la Cámara de Comercio de Lima.
