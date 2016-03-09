@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
@@ -11,8 +11,8 @@ description: >-
   en Economía de la Universidad de Lima. Master en Sociedad de la Información y
 
   el Conocimiento en la Universidad Oberta de Catalunya
-datePublished: '2016-03-09T09:56:51.342Z'
-dateModified: '2016-03-09T09:56:51.116Z'
+datePublished: '2016-03-09T10:19:01.846Z'
+dateModified: '2016-03-09T10:15:01.108Z'
 title: César Alfonso Zevallos Heudebert
 author: []
 sourcePath: _posts/2016-03-08-cesar-alfonso-zevallos-heudebert.md
@@ -27,6 +27,8 @@ url: cesar-alfonso-zevallos-heudebert/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd43bc61-7277-4831-888b-7cc937659613.jpg)
+
 Licenciado
 en Economía de la Universidad de Lima. Master en Sociedad de la Información y
 el Conocimiento en la Universidad Oberta de Catalunya
@@ -36,11 +38,9 @@ más de 30 años de experiencia en comunicaciones con nuevas tecnologías e
 Internet. 
 
 Actualmenté
-es fundador 
-
-y Gerente General de Asix
+es fundador y Gerente General de Asix
 S.A., empresa especializada en desarrollo de estrategias de e-business, comunicación
-y marketing con medios digitales.
+y marketing con medios digitales. 
 
 Es
 socio fundador de la Red Científica Peruana. 
