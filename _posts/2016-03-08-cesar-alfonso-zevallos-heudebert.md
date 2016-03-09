@@ -11,8 +11,8 @@ description: >-
   en Economía de la Universidad de Lima. Master en Sociedad de la Información y
 
   el Conocimiento en la Universidad Oberta de Catalunya
-datePublished: '2016-03-09T10:19:01.846Z'
-dateModified: '2016-03-09T10:15:01.108Z'
+datePublished: '2016-03-09T19:30:14.041Z'
+dateModified: '2016-03-09T13:39:03.715Z'
 title: César Alfonso Zevallos Heudebert
 author: []
 sourcePath: _posts/2016-03-08-cesar-alfonso-zevallos-heudebert.md
