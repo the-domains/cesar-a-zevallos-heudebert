@@ -1,14 +1,10 @@
 ---
-author:
-  - name: TEDx Talks
-    url: 'https://www.youtube.com/user/TEDxTalks'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=IRLsK_gHKLw'
+inLanguage: en
+starred: false
 keywords:
   - tedx
   - tedxtukuy
@@ -21,7 +17,13 @@ keywords:
   - self-organized
   - vida
 description: 'Cesar Zevallos shares some highlights from the TEDxTukuy event, and tells other organizers of useful tips that make TEDxTukuy a success. TEDActive Once a year, the day before TEDActive, members of the TEDx community convene for a TEDx workshop in the Joshua Tree desert.'
-inLanguage: en
+datePublished: '2016-03-16T10:11:21.950Z'
+dateModified: '2016-03-16T10:08:41.583Z'
+author:
+  - name: TEDx Talks
+    url: 'https://www.youtube.com/user/TEDxTalks'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IRLsK_gHKLw&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IRLsK_gHKLw'
 title: TEDxTukuy - Cesar Zevallos - 2/13/10
-datePublished: '2016-03-16T10:06:44.772Z'
-dateModified: '2016-03-16T10:06:11.032Z'
 sourcePath: _posts/2016-03-16-tedxtukuy-cesar-zevallos-21310.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
