@@ -12,8 +12,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'http://startupacademy.la/mentores/cesar-zevallos/'
 title: Cesar Zevallos
-datePublished: '2016-03-16T09:46:58.697Z'
-dateModified: '2016-03-16T09:45:21.433Z'
+datePublished: '2016-03-16T10:01:54.227Z'
+dateModified: '2016-03-16T09:56:58.066Z'
 sourcePath: _posts/2016-03-16-cesar-zevallos.md
 published: true
 inFeed: true
