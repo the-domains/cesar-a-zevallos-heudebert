@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "TED University\_"
-datePublished: '2016-03-19T06:31:59.022Z'
-dateModified: '2016-03-19T06:31:37.704Z'
+datePublished: '2016-03-19T07:58:44.747Z'
+dateModified: '2016-03-19T06:32:03.386Z'
 title: TED University
 author: []
+sourcePath: _posts/2016-03-19-ted-university.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-ted-university.md
-published: true
 url: ted-university/index.html
 _type: Article
 
