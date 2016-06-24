@@ -5,15 +5,19 @@ inNav: true
 inLanguage: es
 starred: false
 keywords: []
-description: 'César A. Zevallos Heudebert es fundador y Gerente General de Asix S.A., empresa especializada en desarrollo de estrategias de e-business, comunicación y marketing con tecnología. Socio fundador de la Red Científica Peruana, tiene más de 25 años de experiencia en e-business y comunicaciones con nuevas tecnologías.'
-datePublished: '2016-03-19T11:38:54.647Z'
-dateModified: '2016-03-19T11:38:49.199Z'
+description: >-
+  César A. Zevallos Heudebert es fundador y Gerente General de Asix S.A.,
+  empresa especializada en desarrollo de estrategias de e-business, comunicación
+  y marketing con tecnología. Socio fundador de la Red Científica Peruana, tiene
+  más de 25 años de experiencia en e-business y comunicaciones con nuevas
+  tecnologías.
+datePublished: '2016-06-24T20:49:33.482Z'
+dateModified: '2016-03-19T11:39:11.007Z'
 author: []
 related: []
 app_links: []
 title: Mentoria para startups
 sourcePath: _posts/2016-03-16-cesar-zevallos.md
-published: true
 authors: []
 publisher:
   name: Startup Academy
